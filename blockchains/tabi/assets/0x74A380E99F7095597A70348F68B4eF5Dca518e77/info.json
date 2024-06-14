@@ -1,0 +1,11 @@
+{
+    "name": "Meta",
+    "type": "ERC20",
+    "symbol": "META",
+    "decimals": 18,
+    "website": "",
+    "description": "Meta Erc20 Token",
+    "explorer": "https://testnet.tabiscan.com/address/0x74A380E99F7095597A70348F68B4eF5Dca518e77",
+    "status": "active",
+    "id": "0x74A380E99F7095597A70348F68B4eF5Dca518e77"
+}

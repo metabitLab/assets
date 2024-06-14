@@ -1,0 +1,11 @@
+{
+    "name": "Usdc",
+    "type": "ERC20",
+    "symbol": "USDC",
+    "decimals": 18,
+    "website": "",
+    "description": "USDC Erc20 Token",
+    "explorer": "https://testnet.tabiscan.com/address/0x4b58EeC5Ef897beBCAbd3B72bB204E5ad0c58A03",
+    "status": "active",
+    "id": "0x4b58EeC5Ef897beBCAbd3B72bB204E5ad0c58A03"
+}

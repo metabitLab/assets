@@ -1,0 +1,29 @@
+{
+    "name": "Tabi",
+    "website": "https://www.tabichain.com/",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "explorer": "https://testnet.tabiscan.com/",
+    "research": "",
+    "symbol": "TABI",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/treasureland-market"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/Tabichain"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/tabichain"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.tabichain.com/"
+        }
+    ]
+}
