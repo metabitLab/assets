@@ -1,0 +1,11 @@
+{
+    "name": "Jax",
+    "type": "ERC20",
+    "symbol": "JAX",
+    "decimals": 18,
+    "website": "",
+    "description": "JAX Erc20 Token",
+    "explorer": "https://testnet.tabiscan.com/address/0xB9f2218e03cF0753e2FEE2A1B6B5718a12b42E4b",
+    "status": "active",
+    "id": "0xB9f2218e03cF0753e2FEE2A1B6B5718a12b42E4b"
+}
