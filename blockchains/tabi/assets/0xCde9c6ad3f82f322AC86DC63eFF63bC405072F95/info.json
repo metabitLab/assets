@@ -1,0 +1,11 @@
+{
+    "name": "Weth",
+    "type": "ERC20",
+    "symbol": "WETH",
+    "decimals": 18,
+    "website": "",
+    "description": "WETH Erc20 Token",
+    "explorer": "https://testnet.tabiscan.com/address/0x393f5Ae00269ecE38f5168ec0472564EBF6FA86E",
+    "status": "active",
+    "id": "0x393f5Ae00269ecE38f5168ec0472564EBF6FA86E"
+}

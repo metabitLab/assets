@@ -1,0 +1,11 @@
+{
+    "name": "Usdx",
+    "type": "ERC20",
+    "symbol": "USDX",
+    "decimals": 18,
+    "website": "",
+    "description": "USDX Erc20 Token",
+    "explorer": "https://testnet.tabiscan.com/address/0xFaD5344F00b6ee0d3598dCf14c63682357032369",
+    "status": "active",
+    "id": "0xFaD5344F00b6ee0d3598dCf14c63682357032369"
+}
