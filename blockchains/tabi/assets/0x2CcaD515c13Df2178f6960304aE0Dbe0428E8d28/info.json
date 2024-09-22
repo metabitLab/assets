@@ -1,0 +1,11 @@
+{
+    "name": "Usdt",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "website": "",
+    "description": "USDT Erc20 Token",
+    "explorer": "https://testnet.tabiscan.com/address/0x354b92AE31dF5bFf8C0E63aBDe4e3D30Ebaa1EAC",
+    "status": "active",
+    "id": "0x354b92AE31dF5bFf8C0E63aBDe4e3D30Ebaa1EAC"
+}
