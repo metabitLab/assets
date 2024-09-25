@@ -1,0 +1,11 @@
+{
+    "name": "DARUMA",
+    "type": "ERC20",
+    "symbol": "DARUMA",
+    "decimals": 18,
+    "website": "",
+    "description": "DARUMA Erc20 Token",
+    "explorer": "https://testnetv2.tabiscan.com/address/0x26fFE4767134656EeC7EB99b7edd04d6566ee1d8",
+    "status": "active",
+    "id": "0x26fFE4767134656EeC7EB99b7edd04d6566ee1d8"
+}
